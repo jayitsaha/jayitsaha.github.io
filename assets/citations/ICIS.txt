@@ -1,0 +1,2 @@
+Jayit Saha, Smit Patel, Frank Xing, and Erik Cambria. 2022. Does social media sentiment predict Bitcoin trading
+volume?. In Proceedings of the 43rd International Conference on Information Systems (ICIS). 1–9.
